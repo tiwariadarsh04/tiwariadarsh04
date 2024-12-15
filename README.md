@@ -47,7 +47,7 @@
 
 ---
 
-### ⚡ Fun Fact:  
+### ⚡  Fact:  
 > I’ve solved **200+ DSA problems** across platforms like LeetCode, GeeksforGeeks, and Codeforces!  
 
 ---
