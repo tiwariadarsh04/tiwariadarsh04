@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Adarsh Tiwari  
-### Full-Stack Developer | Open Source Contributor | MERN Specialist  
+### Full-Stack Developer | Open Source Contributor | MERN Specialist|C++ Developer  
 
 🚀 **4th-year IT student** from Bansal Institute of Engineering and Technology, Lucknow.  
 💻 Passionate about **Full-Stack Development**, **Data Structures & Algorithms**, and solving real-world problems with tech.  
